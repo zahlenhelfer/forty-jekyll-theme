@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Services
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Here you find all my service offerings- From Cloud-Kickoff to Trainings and Workshops.Including Consulting and POC development.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---

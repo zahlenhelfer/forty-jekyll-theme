@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+title: Zahlenhelfer
+subtitle: Training & Consulting
+email: info@zahlenhelfer-consulting.de
+description: I´m a trainer, consultant and speaker for cloud, container and devops topics.
+baseurl: '/forty-jekyll-theme' # the subpath of your site, e.g. /blog
+url: localhost:4000 # the base hostname & protocol for your site
+author: Marcus Ross
+street_address: Elisenstrasse 14a
+city: Buchholz i.d.N.
+state: Niedersachsen
+zip_code: 21244
+country: Germany
+phone: +49 (0)151 - 147 724 91
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,12 +22,13 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
-  GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  GitHub: https://github.com/zahlenhelfer
+  GitLab: https://gitlab.com/zahlenhelfer
+  Google-Plus:
+  Xing: https://www.xing.com/profile/Marcus_Ross2
+  Instagram: https://www.instagram.com/zahlenhelfer
+  LinkedIn: https://www.linkedin.com/in/marcusross
+  Twitter: https://twitter.com/zahlenhelfer
   Facebook:
   Slack:
 
@@ -38,7 +39,7 @@ sass:
   style: compressed
 
 exclude:
-- "*.gemspec"
-- LICENSE.md
-- CONTRIBUTING.md
-- README.md 
+  - '*.gemspec'
+  - LICENSE.md
+  - CONTRIBUTING.md
+  - README.md
