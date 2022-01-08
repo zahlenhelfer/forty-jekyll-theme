@@ -1,7 +1,7 @@
 ---
 title: Services
 layout: landing
-description: 'Here you find all my service offerings- From Cloud-Kickoff to Trainings and Workshops.Including Consulting and POC development.'
+description: 'Here you find all my service offerings - From Cloud-Kickoff to Trainings and Workshops.Including Consulting and POC development.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
