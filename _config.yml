@@ -4,7 +4,7 @@ subtitle: Training & Consulting
 email: info@zahlenhelfer-consulting.de
 description: I´m a trainer, consultant and speaker for cloud, container and devops topics.
 baseurl: '/forty-jekyll-theme' # the subpath of your site, e.g. /blog
-url: localhost:4000 # the base hostname & protocol for your site
+url: # the base hostname & protocol for your site
 author: Marcus Ross
 street_address: Elisenstrasse 14a
 city: Buchholz i.d.N.
